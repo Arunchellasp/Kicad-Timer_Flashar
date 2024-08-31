@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM8S103F3P6
+D Access line, 16 MHz STM8S 8-bit MCU, up to 8 Kbytes Flash,  data EEPROM,10-bit ADC, 3 timers, UART, SPI, IC
+K
+F https://www.st.com/resource/en/datasheet/stm8s103f3.pdf
+$ENDCMP
+#
+#End Doc Library

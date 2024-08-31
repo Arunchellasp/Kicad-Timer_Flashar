@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PC817X1NSZ1B
+D Transistor Output Optocouplers Photocoupler
+K
+F https://global.sharp/products/device/lineup/data/pdf/datasheet/PC817XxNSZ1B_e.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "YSX530GA_8MHZ")(type "KiCad")(uri "E:/HARDWARE DEVELOPMENT/Timer_Flashar_source/Crystal/YSX530GA_8MHZ.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/LED/Library.pretty")(options "")(descr ""))
+  (lib (name "INDI_LED")(type "KiCad")(uri "${KIPRJMOD}/INDICATION_LED/INDI_LED.pretty")(options "")(descr ""))
+  (lib (name "55V-5V DC-DC")(type "KiCad")(uri "${KIPRJMOD}/55V-5V DC-DC/55V-5V DC-DC.pretty")(options "")(descr ""))
+  (lib (name "3 Pin Screw Terminal- 5mm Pitch")(type "KiCad")(uri "${KIPRJMOD}/3-PIN_Terminal Blocks/3 Pin Screw Terminal- 5mm Pitch.pretty")(options "")(descr ""))
+  (lib (name "2 Pin Screw Terminal- 5mm Pitch")(type "KiCad")(uri "${KIPRJMOD}/2-PIN_Terminal Blocks/2 Pin Screw Terminal- 5mm Pitch.pretty")(options "")(descr ""))
+  (lib (name "6 Pin Male FRC")(type "KiCad")(uri "${KIPRJMOD}/6 Pin Straight Male IDC Socket Connector/6 Pin Male FRC.pretty")(options "")(descr ""))
+  (lib (name "M# Dril Hole")(type "KiCad")(uri "${KIPRJMOD}/M# Dril Hole.pretty")(options "")(descr ""))
+)

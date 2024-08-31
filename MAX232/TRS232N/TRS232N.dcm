@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TRS232N
+D RS-232 Interface IC Dual RS232 Drvr/Rcvr
+K
+F https://www.ti.com/lit/gpn/trs232
+$ENDCMP
+#
+#End Doc Library

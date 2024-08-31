@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX232CSE+T
+D RS-232 Interface IC +5V-Powered, Multichannel RS-232 Drivers/Receivers
+K
+F https://componentsearchengine.com/Datasheets/2/MAX232CSE+T.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model HFD27_005-S
+#/2285664/1265677/2.50/8/4/Relay or Contactor
+DEF HFD27_005-S K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "HFD27_005-S" 1150 200 50 H V L CNN
+F2 "HFD27005S" 1150 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/hfd27005-s/hongfa-europe-gmbh" 1150 0 50 H I L CNN
+F4 "Signal Relay 5VDC 2A DPDT(20.2x10x11.5)mm THT" 1150 -100 50 H I L CNN "Description"
+F5 "11.5" 1150 -200 50 H I L CNN "Height"
+F6 "HFD27/005-S" 1150 -300 50 H I L CNN "Arrow Part Number"
+F7 "https://www.arrow.com/en/products/hfd27005-s/hongfa-europe-gmbh" 1150 -400 50 H I L CNN "Arrow Price/Stock"
+F8 "Hongfa" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "HFD27/005-S" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COIL_1 1 0 0 200 R 50 50 0 0 P
+X COM_1 4 0 -100 200 R 50 50 0 0 P
+X NC_1 6 0 -200 200 R 50 50 0 0 P
+X NO_1 8 0 -300 200 R 50 50 0 0 P
+X NO_2 9 1300 -300 200 L 50 50 0 0 P
+X NC_2 11 1300 -200 200 L 50 50 0 0 P
+X COM_2 13 1300 -100 200 L 50 50 0 0 P
+X COIL_2 16 1300 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

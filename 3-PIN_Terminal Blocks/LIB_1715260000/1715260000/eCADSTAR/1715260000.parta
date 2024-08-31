@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_555092"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-12-12:22:55)
+    (utime 2024-02-08-22:53:26)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "1715260000")
+)
+
+
+(pinAssign "ECS_555092"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-12-12:22:55)
+    (utime 2024-02-08-22:53:26)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_555092")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "1715260000")
+)
+
+
+(part "1715260000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-08-12-12:22:55)
+    (utime 2024-02-08-22:53:26)
+    (packageRef "1715260000")
+    (pinAssignRef "ECS_555092")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Printed circuit board terminals, 5.00 mm, Number of poles: 3, 90, Solder pin length: 3.5 mm, tinned, black, Clamping yoke connection, Clamping range, max. [rated connection]: 2.5 mm, Box")
+    (property "Mouser_Part_Number" "470-1715260000")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Weidmuller/1715260000?qs=WJDKaGZ8K%252B4wKdx%2FbTxz0w%3D%3D")
+    (property "Manufacturer_Name" "Weidmuller")
+    (property "Manufacturer_Part_Number" "1715260000")
+    (property "Datasheet_Link" "http://catalog.weidmueller.com/createDatasheetForMobile.do?ordernumber=1715260000&scope1=1&scope2=1&localeId=en")
+    (property "compAreaTopHeight" 13.8)
+)
+
+

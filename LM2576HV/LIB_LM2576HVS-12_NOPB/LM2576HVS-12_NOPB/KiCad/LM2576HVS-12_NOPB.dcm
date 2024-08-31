@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2576HVS-12_NOPB
+D SIMPLE SWITCHER&#174; 4V to 60V, 3A Low Component Count Step-Down Regulator
+K
+F http://www.ti.com/lit/gpn/lm2576hv
+$ENDCMP
+#
+#End Doc Library

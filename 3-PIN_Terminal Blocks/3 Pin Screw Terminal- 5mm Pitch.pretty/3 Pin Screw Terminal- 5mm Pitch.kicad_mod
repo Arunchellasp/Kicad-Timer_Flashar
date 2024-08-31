@@ -1,0 +1,117 @@
+(footprint "3 Pin Screw Terminal- 5mm Pitch"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "J"
+		(at 0 -4.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "38d89e4a-752e-4cb5-a824-790008bde02e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "3 Pin Screw Terminal- 5mm Pitch"
+		(at 0.1 -6.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "07067e42-e907-4319-b971-396e68c82bdd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "3 Pin Screw Terminal- 5mm Pitch"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d8ae645-1c51-47b1-881c-c00f6bd630b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba5f456e-ab0c-4f92-bcfd-3c3d7d175c3a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "59bdce15-40fe-4915-acb9-fb21710dc3dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -7.4 -4.15)
+		(end 7.6 3.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "de6623a3-35d9-4e08-b84f-c7febcb3f22c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.1 -5.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "68e272c9-85c7-4e50-a2b0-1482be923eb0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -4.9 -0.1)
+		(size 3 3)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2a25d770-42c4-4368-9b0f-2c9e098e8438")
+	)
+	(pad "2" thru_hole circle
+		(at 0.1 -0.05)
+		(size 3 3)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "245a5339-1525-4b4b-82f1-122f8a074ca8")
+	)
+	(pad "3" thru_hole rect
+		(at 5.1 -0.05 90)
+		(size 3 3)
+		(drill 1.25)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ea61988a-d7de-4a5a-86d0-de2bf2c074a6")
+	)
+)

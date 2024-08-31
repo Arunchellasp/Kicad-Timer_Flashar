@@ -1,0 +1,9 @@
+Manufacturer=Weidmüller
+PartNumber=1715260000
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=3.1
+Released=2022-08-12 12:22:55
+Downloaded=2024-07-12 06:13:22
+3D=Y

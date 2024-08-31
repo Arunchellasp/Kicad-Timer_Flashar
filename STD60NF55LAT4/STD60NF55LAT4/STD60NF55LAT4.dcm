@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STD60NF55LAT4
+D MOSFET N-channel 55 V, 0.012 Ohm, 60 A DPAK STripFET(TM) II Power MOSFET
+K
+F 
+$ENDCMP
+#
+#End Doc Library

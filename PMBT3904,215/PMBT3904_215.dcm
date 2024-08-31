@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMBT3904,215
+D PMBT3904 - 40 V, 200 mA NPN switching transistor@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PMBT3904.pdf
+$ENDCMP
+#
+#End Doc Library

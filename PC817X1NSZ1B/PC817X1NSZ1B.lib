@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PC817X1NSZ1B
+#/1991967/1265677/2.50/4/3/Integrated Circuit
+DEF PC817X1NSZ1B IC 0 30 Y Y 1 F N
+F0 "IC" 1350 300 50 H V L CNN
+F1 "PC817X1NSZ1B" 1350 200 50 H V L CNN
+F2 "DIP762W60P254L460H455Q4N" 1350 100 50 H I L CNN
+F3 "https://global.sharp/products/device/lineup/data/pdf/datasheet/PC817XxNSZ1B_e.pdf" 1350 0 50 H I L CNN
+F4 "Transistor Output Optocouplers Photocoupler" 1350 -100 50 H I L CNN "Description"
+F5 "4.55" 1350 -200 50 H I L CNN "Height"
+F6 "852-PC817X1NSZ1B" 1350 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Sharp-Microelectronics/PC817X1NSZ1B?qs=rrS6PyfT74e4O%2FoD5P1nvg%3D%3D" 1350 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Sharp Microelectronics" 1350 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PC817X1NSZ1B" 1350 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ANODE 1 0 0 200 R 50 50 0 0 P
+X CATHODE 2 0 -100 200 R 50 50 0 0 P
+X COLLECTOR 4 1500 0 200 L 50 50 0 0 P
+X EMITTER 3 1500 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
